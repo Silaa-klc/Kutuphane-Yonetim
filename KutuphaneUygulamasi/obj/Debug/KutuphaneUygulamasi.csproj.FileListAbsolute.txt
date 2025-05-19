@@ -1,0 +1,13 @@
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\bin\Debug\KutuphaneUygulamasi.exe.config
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\bin\Debug\KutuphaneUygulamasi.exe
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\bin\Debug\KutuphaneUygulamasi.pdb
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.csproj.AssemblyReference.cache
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.Form1.resources
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.Properties.Resources.resources
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.csproj.GenerateResource.cache
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.exe
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.pdb
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.Kitaplar.resources
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.KiraciBilgileri.resources
+C:\Users\kulcu\source\repos\KutuphaneUygulamasi\KutuphaneUygulamasi\obj\Debug\KutuphaneUygulamasi.KirralananKitaplar.resources
